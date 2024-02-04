@@ -32,7 +32,12 @@ git commit -m "Message"
 ```sh
  git log --oneline
 ```
-## gitПереход на другую версию
+## Переход на другую версию
 ```sh
  git checkout
+ ```
+
+ ## Работа с ветками
+```sh
+ git branch
  ```
