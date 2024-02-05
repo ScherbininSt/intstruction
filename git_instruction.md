@@ -38,6 +38,13 @@ git commit -m "Message"
 ```sh
  git log --oneline
 ```
+ 
+>Для просмотра веток можно использоваать команду --graph, после команды  --oneline
+
+Пример:
+```sh
+git log --oneline --graph
+```
 ## Переход на другую версию
 ```sh
  git checkout
